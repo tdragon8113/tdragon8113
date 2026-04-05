@@ -4,9 +4,7 @@
 
 ## About Me
 
-I'm a developer.
-
-**Tech Stack:** Java / Spring Boot, Vue, Python, Swift / SwiftUI
+I'm a developer skilled in Java/Spring Boot, Vue, Python, and Swift/SwiftUI.
 
 ## Projects
 
