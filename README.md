@@ -11,7 +11,6 @@
 - 🖥️ Swift / SwiftUI
 - 🐍 Python
 - ☕ Java / Spring Boot
-- 🦀 Rust
 
 ## 项目
 
