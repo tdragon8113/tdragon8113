@@ -6,12 +6,7 @@
 
 I'm a developer.
 
-## Tech Stack
-
-- ☕ Java / Spring Boot
-- 🌿 Vue
-- 🐍 Python
-- 🖥️ Swift / SwiftUI
+**Tech Stack:** Java / Spring Boot, Vue, Python, Swift / SwiftUI
 
 ## Projects
 
