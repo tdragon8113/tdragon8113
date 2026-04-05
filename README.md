@@ -4,7 +4,7 @@
 
 ## About Me
 
-I'm a developer focusing on macOS and iOS application development.
+I'm a developer.
 
 ## Tech Stack
 
