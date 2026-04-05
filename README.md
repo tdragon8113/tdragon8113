@@ -9,9 +9,9 @@
 ## 技术栈
 
 - ☕ Java / Spring Boot
-- 🖥️ Swift / SwiftUI
-- 🐍 Python
 - 🌿 Vue
+- 🐍 Python
+- 🖥️ Swift / SwiftUI
 
 ## 项目
 
