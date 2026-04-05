@@ -8,8 +8,10 @@ I'm a developer skilled in Java/Spring Boot, Vue, Python, and Swift/SwiftUI.
 
 ## Projects
 
-- [RoutePilot](https://github.com/tdragon8113/route-pilot) - macOS VPN routing management tool with auto-routing and multi-VPN support
+🛫 [RoutePilot](https://github.com/tdragon8113/route-pilot) - macOS VPN routing management tool
 
 ## Stats
 
-![stats](https://github-readme-stats.vercel.app/api?username=tdragon8113&show_icons=true&theme=default)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=tdragon8113&show_icons=true&theme=default&hide_border=true" alt="stats" />
+</p>
