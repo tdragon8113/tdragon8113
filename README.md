@@ -11,6 +11,7 @@
 - ☕ Java / Spring Boot
 - 🖥️ Swift / SwiftUI
 - 🐍 Python
+- 🌿 Vue
 
 ## 项目
 
