@@ -10,6 +10,8 @@ I'm a developer skilled in Java/Spring Boot, Vue, Python, and Swift/SwiftUI.
 
 🛫 [RoutePilot](https://github.com/tdragon8113/route-pilot) - macOS VPN routing management tool
 
+📓 [Agent Diary](https://github.com/tdragon8113/agent-diary) - Personal diary microservices project
+
 ## Stats
 
 <p align="left">
